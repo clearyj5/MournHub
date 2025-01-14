@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This project is a replica of RIP.ie (seeing as RIP.ie have started to charge for the service...)
+
+Tech Stack is as follows:
+
+Frontend: Next.js 14 (React)
+Backend: Node.js with Express
+Database: MongoDB (for flexible death notice schema)
+Search: Elasticsearch (for powerful search capabilities)
+Styling: Tailwind CSS
 
 ## Getting Started
 
