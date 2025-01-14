@@ -5,6 +5,7 @@ Tech Stack is as follows:
 Frontend: Next.js 14 (React) - Backend: Node.js with Express - Database: MongoDB (for flexible death notice schema) - Search: Elasticsearch (for powerful search capabilities) - Styling: Tailwind CSS
 
 ## Getting Started
+Clone the repo and run the following commands
 
 ```bash
 npm install
